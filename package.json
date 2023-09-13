@@ -18,7 +18,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -b main --remote azavalla",
+    "deploy": "gh-pages -d build -b deploy --remote azavalla",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

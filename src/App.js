@@ -36,6 +36,7 @@ const StyledApp = styled.nav`
   width: 100%;
   text-align: center;
   position: fixed;
+  overflow: scroll;
 `;
 
 const Input = styled.input`

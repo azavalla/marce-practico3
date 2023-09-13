@@ -44,6 +44,7 @@ const Separador = styled.div`
   border: 5px solid #fff;
   padding: 1.5vw;
   font-size: 3.3vh;
+  padding: max(2vh, 5.8px);
 `
 
 const BotonJugador = styled.button`
@@ -175,7 +176,7 @@ class Juego extends Component {
         ganador: ganador,
         jugando: false,
       })
-    }.bind(this), 2500)
+    }.bind(this), 1800)
   };
 
   reiniciar() {
@@ -189,8 +190,6 @@ class Juego extends Component {
     const estiloSeleccionado = {border: '0.3rem solid #55eb34'}
     const estiloNoSeleccionado = {border: '0.3rem solid transparent'}
     const { classes } = this.props;
-    console.log(JSON.stringify(this.state))
-    console.log('ganador ' + this.state.ganador+ '-- ' + 'nombre ' + this.props.nombre )
     let ganadorText;
     switch (this.state.ganador) {
       case this.props.nombre:
