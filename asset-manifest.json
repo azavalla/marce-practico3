@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marce-practico3/static/css/main.47518cf8.css",
+    "main.js": "/marce-practico3/static/js/main.5d87abb4.js",
+    "static/js/787.f9640105.chunk.js": "/marce-practico3/static/js/787.f9640105.chunk.js",
+    "index.html": "/marce-practico3/index.html",
+    "main.47518cf8.css.map": "/marce-practico3/static/css/main.47518cf8.css.map",
+    "main.5d87abb4.js.map": "/marce-practico3/static/js/main.5d87abb4.js.map",
+    "787.f9640105.chunk.js.map": "/marce-practico3/static/js/787.f9640105.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47518cf8.css",
+    "static/js/main.5d87abb4.js"
+  ]
+}
