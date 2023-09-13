@@ -81,9 +81,10 @@ const StyledGamePaper = styled.div`
 `;
 
 const Ayuda = styled.p`
-position: absolute;
-bottom: -20px;
-right: 30px;
+position: fixed;
+bottom: 32px;
+right: 32px;
+margin-bottom: 0px;
 font-weight: 700;
 border-radius: 25px;
 background: #B3A8E0;
@@ -98,8 +99,8 @@ line-height: 3vw;
 const TextoAyuda = styled.p`
 display: none;
 position: absolute;
-bottom: 135px;
-right: 120px;
+bottom: 90px;
+right: 110px;
 font-weight: 700;
 border-radius: 25px;
 background: #B3A8E0;
