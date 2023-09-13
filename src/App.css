@@ -1,17 +1,18 @@
-.App {
+/* .App {
   text-align: center;
-}
+  height: 100vh;
+} */
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
-}
+} */
 
-@media (prefers-reduced-motion: no-preference) {
+/* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+} */
 
 .App-header {
   background-color: #282c34;
@@ -39,13 +40,13 @@
 
 
 /* MIS ESTILOS */
-h1 {
+/* h1 {
   font-size: 40px;
   text-align: center;
   color: rgb(73, 88, 158);
-}
+} */
 
-input {
+/* input {
   background-color: rgb(220, 210, 144);
   padding: 10px 50px;
   max-width: 300px;
@@ -53,9 +54,9 @@ input {
   font-size: 14px;
   font-weight: bold;
   text-align: center;
-}
+} */
 
-h3 {
+/* h3 {
   font-size: 20px;
   text-align: center;
   color: rgb(98, 12, 86);
@@ -134,4 +135,18 @@ h3 {
   margin: 5px 5px;
   font-size: 14px;
   font-weight: bold;
+} */
+
+/* button {
+  cursor: pointer;
+  background-color: transparent;
+  border: 0;
+  margin: 10px;
+  padding: 0;
+} */
+
+img {
+  /* height: 9em; */
+  height: 100%;
+  width: 100%;
 }

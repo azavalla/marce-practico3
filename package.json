@@ -2,8 +2,10 @@
   "homepage": "https://lomejorweb.github.io/practico3/",
   "name": "practico3",
   "version": "0.1.0",
+  "homepage": "https://azavalla.github.io/marce-practico3",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.12.4",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
